@@ -1,2 +1,0 @@
-# SkolTest
-Testing GIT
